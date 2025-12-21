@@ -1,25 +1,41 @@
-# Nauman-Rafay
+# 👋 Hi, I'm Nauman Rafay
 
-# 👋 Hi, I'm Nauman Rafay  
-
- A passionate **learner programmer** exploring coding step by step.  
- Currently doing bachelors in Data Science   
- Currently learning **C++**, **Python**, **Java**, **JavaScript** and **Data Science** and **AI/ML**.  
- Building beginner-friendly projects and improving problem-solving skills.  
- Love working on **CS fundamentals** and sharing what I learn. 
- Also enjoy experimenting with **Machine learning techniques** and exploring Data Science.
+🎓 **Data Science Undergraduate**  
+💻 Passionate **learner programmer**, exploring coding step by step  
 
 ---
 
-### 🛠️ Skills
-- Programming: C++, Python, Java, JavaScript, CSS, Html, BootStrap  
-- Tools: Git, GitHub, VS Code, Ubuntu, Visual Studio  
-- Interests: Data Science, AI, ML,Software Development  
+### 🌱 About Me
+- Currently pursuing a **Bachelor’s degree in Data Science**
+- Learning and working with **C++**, **Python**, **Java**, **JavaScript**
+- Exploring **Data Science** and **AI / Machine Learning**
+- Building **beginner-friendly projects** to strengthen fundamentals
+- Strong interest in **CS core concepts** and problem-solving
+- Enjoy experimenting with **machine learning techniques** and data-driven ideas
 
 ---
 
-### 📫 Connect with Me
-- 📧 Email: naumanrafay1911@gmail.com  
-- 🌐 Portfolio (coming soon!)  
+### 🛠️ Skills & Tools
+**Programming Languages**
+- C++, Python, Java, JavaScript  
+- HTML, CSS, Bootstrap  
 
-⭐ *Thanks for visiting my GitHub profile!*
+**Tools & Platforms**
+- Git, GitHub  
+- VS Code, Visual Studio  
+- Ubuntu  
+
+**Areas of Interest**
+- Data Science  
+- Artificial Intelligence & Machine Learning  
+- Software Development  
+
+---
+
+### 📫 Connect With Me
+- 📧 **Email:** naumanrafay1911@gmail.com  
+- 🌐 **Portfolio:** Coming soon  
+
+---
+
+⭐ *Thanks for visiting my GitHub profile — feel free to explore my repositories!*
