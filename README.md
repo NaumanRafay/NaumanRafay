@@ -7,7 +7,7 @@
 
 ### 🌱 About Me
 - Currently pursuing a **Bachelor’s degree in Data Science**
-- Learning and working with **C++**, **Python**, **Java**, **JavaScript**
+- Learning and working with **C++**, **Python**, **SQL**, **R**
 - Exploring **Data Science** and **AI / Machine Learning**
 - Building **beginner-friendly projects** to strengthen fundamentals
 - Strong interest in **CS core concepts** and problem-solving
@@ -17,7 +17,8 @@
 
 ### 🛠️ Skills & Tools
 **Programming Languages**
-- C++, Python, Java, JavaScript  
+- C++, Python, SQL, R
+- Java, JavaScript, Flask  
 - HTML, CSS, Bootstrap  
 
 **Tools & Platforms**
