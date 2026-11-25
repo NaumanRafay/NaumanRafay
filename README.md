@@ -2,7 +2,7 @@
 
 🎓 **Data Science Undergraduate at FAST NUCES**
 
-💻 Passionate **learner, programmer**and exploring coding step by step
+💻 Passionate **learner, programmer** and exploring coding step by step
 
 ## 🛠 Skills & Tools:
 
